@@ -17,3 +17,9 @@ Basis: Claude-Design-Variante 1. Statisches HTML/CSS, Netlify Forms.
 - Favicon: provisorisches "GG" (Ele-Monogramm folgt)
 - noindex (Meta, Header, robots.txt) bis Markenfrage geklärt
 - Impressum/Datenschutz: vom Anwalt prüfen lassen
+
+## v2 (13.10.2026) – Branch v2-landing-und-demo
+- `/v2/` = neue Landingpage (Espresso-Hero, Vorher/Nachher DMs vs. Online-Buchung, 4 Bausteine, Ablauf, Reporting, Pilot, Über mich, FAQ, Check-Formular). Ersetzt index.html erst nach Go von James.
+- `/demo/` = Master-Demo-Website "Maison Lumée" (fiktiv, alle Inhalte Beispiele), Layout-Konzept 3 "Seitenleisten-Magazin", Buchungs-Widget mit Daten in `const STUDIO = {…}`.
+- Bilder: mit Higgsfield (Nano Banana Pro) generiert, lizenzfrei. Quelle der Artifact-Versionen: claude.ai/artifact/348LzygVz1suvp9NLosSC3 (Landing), claude.ai/artifact/SR58M9ma3zqjGvTBnvhMKj (Demo).
+- Reviewer (separater Agent): Landing FREIGABE MIT HINWEISEN, Demo FREIGABE.
