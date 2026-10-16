@@ -1,8 +1,2 @@
 [build]
   publish = "."
-
-# Vorschau: für Suchmaschinen gesperrt, bis die Markenfrage geklärt ist
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Robots-Tag = "noindex, nofollow"

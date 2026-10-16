@@ -1,3 +1,4 @@
-# Vorschau: gesperrt, bis die Markenfrage geklärt ist
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://seenery.ch/sitemap.xml
