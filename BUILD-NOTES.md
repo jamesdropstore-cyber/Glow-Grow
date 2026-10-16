@@ -1,19 +1,11 @@
-# Build-Notes – Glow & Grow Vorschau (06.10.2026)
+# Build-Notes – Seenery Agency (16.10.2026)
 
-Basis: Claude-Design-Variante 1. Statisches HTML/CSS, Netlify Forms.
+- 16.10.2026: Rebrand von «Glow & Grow» auf **Seenery Agency**. Landingpage = gleicher Stand wie der Claude-Spiegel (claude.ai Artifact «Seenery Agency») und Claude Design.
+- Wortmarke A5 (SEENERY + Funke, AGENCY) in Kopfzeile und Footer, Favicon A1-a (Runde 5).
+- Kontakt: info@seenery.ch · 076 339 13 98 · Instagram @seenery.agency
+- Regel: Jede Code-Änderung wird gleichzeitig hier (GitHub → Netlify), im Claude-Spiegel und als Datei für Claude Design aktualisiert.
 
-## Genutzte Daten (von James bestätigt)
-- Headline "Mehr Buchungen. Weniger DMs.", Unterzeile Variante C
-- Über mich: Variante V1, Ich-Form, nur James sichtbar, Verlobte in der Geschichte
-- Kein Preis auf der Seite; Antwortzeit 24–48 h; 2 Pilotstudios
-- FAQ-Fakten aus Projekt: SEO/GEO 6–8 Wochen, live 14 Tage nach Unterlagen, Website/Domain/Hosting/Profil gehören der Kundin
-- Impressum: Firma + Adresse laut Firmen-Tracker
-- Instagram @glowandgrow.zh
-
-## Bewusst offen
-- WhatsApp-Button: kommt, sobald James die Nummer schickt
-- Portrait: kommt, sobald hochgeladen
-- E-Mail: erst nach Markenanwalt + Domain
-- Favicon: provisorisches "GG" (Ele-Monogramm folgt)
-- noindex (Meta, Header, robots.txt) bis Markenfrage geklärt
-- Impressum/Datenschutz: vom Anwalt prüfen lassen
+## Offen
+- Domain seenery.ch mit Netlify verbinden (DNS bei Hostpoint)
+- noindex entfernen, sobald die Seite offiziell live geht
+- Impressum/Datenschutz: Anwalt-Prüfung nach den Piloten

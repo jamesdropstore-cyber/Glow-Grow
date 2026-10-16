@@ -1,4 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <circle cx="32" cy="32" r="30" fill="#fbf7ef" stroke="#a57c3f" stroke-width="2"/>
-  <text x="32" y="42" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#a57c3f" letter-spacing="-3">GG</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="100" fill="#211a15"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#c9a46a" stroke-width="2.4"/>
+  <rect x="146" y="26" width="30" height="30" fill="#211a15"/>
+  <text x="100" y="128" text-anchor="middle" font-family="'Bodoni Moda', Didot, 'Bodoni 72', Georgia, 'Times New Roman', serif" font-size="108" fill="#c9a46a">S</text>
+  <path d="M161 27 C162.2 35.6 164.6 38 173 39 C164.6 40.2 162.2 42.6 161 51 C159.8 42.6 157.4 40.2 149 39 C157.4 38 159.8 35.6 161 27Z" fill="#f5f0e8"/>
 </svg>

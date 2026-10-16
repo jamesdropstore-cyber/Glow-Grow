@@ -1,12 +1,12 @@
 :root {
-  --bg: #f3f2ef;
-  --bg-soft: #ebe8e2;
-  --ink: #1e1d1b;
-  --ink-soft: #4a4744;
-  --gold: #a57c3f;
-  --gold-text: #82612d;
-  --line: #d9d4ca;
-  --cream: #fbf7ef;
+  --bg: #f5f0e8;
+  --bg-soft: #fbf8f3;
+  --ink: #211a15;
+  --ink-soft: #6f6458;
+  --gold: #8a6530;
+  --gold-text: #8a6530;
+  --line: #e2d8c9;
+  --cream: #fbf8f3;
   --serif: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   --body: "Lora", Georgia, "Times New Roman", serif;
   --max: 1080px;
@@ -35,7 +35,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
 /* Header */
 .site-header {
   position: sticky; top: 0; z-index: 10;
-  background: rgba(243, 242, 239, 0.94);
+  background: rgba(245, 240, 232, 0.94);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--line);
 }
